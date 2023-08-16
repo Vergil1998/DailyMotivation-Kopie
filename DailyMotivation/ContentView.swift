@@ -27,6 +27,7 @@ struct ContentView: View {
                 .italic()
                 .padding()
                 .background(.yellow)
+            Rectangle()
         }
     }
 }
